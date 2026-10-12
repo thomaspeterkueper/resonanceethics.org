@@ -21,3 +21,13 @@ External Task in `external-tasks/open/` des jeweiligen Ziel-Repositories
 abgelegt. Anforderungen an dieses Projekt liegen entsprechend hier unter
 `external-tasks/open/`. Format:
 [`ECO-ARC-0006`](https://github.com/thomaspeterkueper/kueper-ecosystem/blob/main/decisions/ECO-ARC-0006-2026-DE.md).
+
+
+## Projektgrundlagen (12.10.2026)
+Die frühere Resonanzethik liegt in mehreren Fassungen auf Google Drive. Die bestehende Repositorystruktur wird schrittweise als kuratiertes Quellenarchiv und Forschungsprojekt ergänzt; ältere Quellen bleiben unverändert.
+
+- [Quellenregister](docs/quellenregister.md)
+- [Anwendungsfall Mondressourcen](docs/anwendungen/2026-10-12-mondressourcen-und-spielraum.md)
+- [Forschungs- und Redaktionsagenda](docs/forschungsagenda.md)
+
+Philosophische These, empirische Hypothese und NOXIA-Fiktion werden ausdrücklich unterschieden.
