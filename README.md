@@ -30,5 +30,6 @@ Die frühere Resonanzethik liegt in mehreren Fassungen auf Google Drive. Die bes
 - [Anwendungsfall Mondressourcen](docs/anwendungen/2026-10-12-mondressourcen-und-spielraum.md)
 - [Forschungs- und Redaktionsagenda](docs/forschungsagenda.md)
 - [Abgleich Realworld 2025 – Trilogie – relationale Prozessontologie](docs/abgleich/2026-10-25-realworld-trilogie-prozessontologie.md) (25.10.2026)
+- [Ergänzung: Restkapitel der Realworld-Fassung, Textfamilien A und C](docs/abgleich/2026-10-25-ergaenzung-restkapitel-und-fassungen.md) (25.10.2026)
 
 Philosophische These, empirische Hypothese und NOXIA-Fiktion werden ausdrücklich unterschieden.
