@@ -1,7 +1,7 @@
 ---
 id: EXT-OMNI-RESETH-20261101-001
 title: Essay „Vom Mut, mitzuleiden“ als Fallstudie für Band 2 (Methodik und Praxis) vormerken
-status: open
+status: done
 source: OMNI
 target: RESETH
 created: 2026-11-01
@@ -61,3 +61,11 @@ TKD-Task erledigt ist.
 
 Philosophische These, empirische Hypothese und Fiktion bleiben nach README
 getrennt; der Essay ist philosophische Anwendung, keine empirische Studie.
+
+## Erledigung (01.11.2026)
+
+- Quellenregister: Abschnitt „Weitere Textzeugen (außerhalb Drive)“ mit dem Essay.
+- Neuer Anwendungsfall `docs/anwendungen/2026-11-01-mitleid-und-spielraum.md`
+  mit Fallpaar, Kanonbezügen, doppelter Prüfung und offenen Prüfungen.
+- Forschungsagenda Punkt 8 (Band 2) und README-Verweis ergänzt.
+- Essaytext nicht in ein Bandmanuskript übernommen.

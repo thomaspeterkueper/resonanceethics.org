@@ -8,3 +8,4 @@ Stand 2026-10-12.
 5. Falsifizierbare Operationalisierungsvorschläge nur als Hypothesen; Messgüte und Ethikkommissionen berücksichtigen.
 6. Anwendungsfälle dokumentieren: Weltraumressourcen, digitale Plattformen, Organisationen, Abhängigkeit und Fürsorge.
 7. Nach Quellenabgleich redaktionellen Kanon beschließen; ältere Fassungen bleiben erhalten.
+8. Band 2 (Methodik und Praxis): Fallstudie „Mitleid und Spielraum“ ausarbeiten – Fallpaar gelungen/misslungen, doppelte Prüfung (Selbst- und Wirkungsprüfung); Grundlage: Essay „Vom Mut, mitzuleiden“, siehe [Anwendungsfall](anwendungen/2026-11-01-mitleid-und-spielraum.md). Ergänzung 2026-11-01.

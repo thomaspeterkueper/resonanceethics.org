@@ -28,6 +28,7 @@ Die frühere Resonanzethik liegt in mehreren Fassungen auf Google Drive. Die bes
 
 - [Quellenregister](docs/quellenregister.md)
 - [Anwendungsfall Mondressourcen](docs/anwendungen/2026-10-12-mondressourcen-und-spielraum.md)
+- [Anwendungsfall Mitleid und Spielraum](docs/anwendungen/2026-11-01-mitleid-und-spielraum.md) (01.11.2026, Fallstudie Band 2)
 - [Forschungs- und Redaktionsagenda](docs/forschungsagenda.md)
 - [Abgleich Realworld 2025 – Trilogie – relationale Prozessontologie](docs/abgleich/2026-10-25-realworld-trilogie-prozessontologie.md) (25.10.2026)
 - [Ergänzung: Restkapitel der Realworld-Fassung, Textfamilien A und C](docs/abgleich/2026-10-25-ergaenzung-restkapitel-und-fassungen.md) (25.10.2026)

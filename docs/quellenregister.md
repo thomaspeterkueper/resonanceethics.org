@@ -15,6 +15,12 @@ Erfassung 2026-10-12. Dies sind Quellverweise, **keine vollständig geprüfte Te
 | Resonanzethik.md | https://drive.google.com/file/d/1QOUZm_hG2u95Wh6oX-AzitOnEHHFWFtv/view | Projektüberblick; sekundärer Metatext, nicht kanonisch |
 | Drive-Ordner „008 Resonanz Ethik“ | https://drive.google.com/drive/folders/1zyJ-dybDq2nDbZUmH22IhsxN8ePA40v | In Suche gefunden; direkter Ordnerzugriff nicht bestätigt |
 
+## Weitere Textzeugen (außerhalb Drive)
+
+| Titel | Fundstelle | Befund / Rolle |
+|---|---|---|
+| Vom Mut, mitzuleiden – Fassung 5 (01.11.2026) | https://thomas-kueper.de/texte/vom-mut-mitzuleiden | Essay; Anwendung der Spielraumprüfung auf Mitleid; Fallstudie für Band 2 vorgemerkt ([Anwendungsfall](anwendungen/2026-11-01-mitleid-und-spielraum.md)) |
+
 ## Redaktionelle Beobachtungen
 - „Resonanz“ kann phänomenologisch, sozial, normativ und physikalisch gebraucht werden. Nicht ohne Nachweis vermengen.
 - Die Monographie enthält zum Teil starke naturwissenschaftliche Analogien; wissenschaftliche Validität vor Veröffentlichung fachlich prüfen.
