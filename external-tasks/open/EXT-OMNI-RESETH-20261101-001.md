@@ -16,14 +16,14 @@ supersedes: []
 ## Anlass
 
 Owner-Entscheidung vom 01.11.2026: Der Essay „Vom Mut, mitzuleiden“
-(Fassung 4) erscheint auf thomas-kueper.de (EXT-OMNI-TKD-20261101-001) und
+(Fassung 5) erscheint auf thomas-kueper.de (EXT-OMNI-TKD-20261101-001) und
 wird zugleich für Band 2 der Resonanzethik („Methodik und Praxis:
 Fallstudien, Anwendungsprotokolle“) vorgemerkt.
 
 ## Gewünschte Änderung
 
 1. Den Essay im Quellenregister (`docs/quellenregister.md`) als Textzeuge
-   aufnehmen: Fassung 4, 01.11.2026, Ort thomas-kueper.de (Manuskript im
+   aufnehmen: Fassung 5, 01.11.2026, Ort thomas-kueper.de (Manuskript im
    TKD-Task EXT-OMNI-TKD-20261101-001).
 2. In der Forschungsagenda bzw. der Bandplanung einen Eintrag „Band 2 –
    Fallstudie: Mitleid und Spielraum“ anlegen, mit den methodischen
