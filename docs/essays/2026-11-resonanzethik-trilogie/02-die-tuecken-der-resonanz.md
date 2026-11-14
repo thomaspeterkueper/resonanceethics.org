@@ -85,6 +85,12 @@ Diese Resonanzethik ist keine Ethik grenzenloser Offenheit. Sie fragt, wie Mensc
 
 Sie hebt moralische Verpflichtungen nicht auf. Wer Verantwortung für ein Kind trägt, kann sich ihr nicht durch den Hinweis auf sein Bedürfnis nach Distanz entziehen. Doch eine Verpflichtung begründet keinen allgemeinen Anspruch auf persönliche Verfügbarkeit.
 
+Besonders deutlich wird das bei asymmetrischer Fürsorge. Eine pflegende Person kann eine belastende Unterhaltung beenden müssen, ohne die Versorgung des abhängigen Menschen abbrechen zu dürfen. Die Grenze des Gesprächs und die Verpflichtung zur notwendigen Hilfe sind nicht dieselbe Frage. Wo ein Rückzug die Sicherheit eines Menschen gefährden würde, gehört zur Verantwortung, eine tragfähige Übergabe, Vertretung oder andere Versorgung sicherzustellen, soweit das tatsächlich möglich und zumutbar ist.
+
+Umgekehrt darf Abhängigkeit nicht zum allgemeinen Anspruch auf die Gefühle und die gesamte Zeit einer Betreuungsperson werden. Eine erschöpfte Person braucht selbst Schutz und reale Entlastungsmöglichkeiten. Auch sie verfügt über Spielraum, der nicht beliebig verbraucht werden kann. Das gilt umso mehr, wenn Institutionen oder andere Verantwortliche ihre Aufgaben auf einzelne Angehörige abwälzen.
+
+Ob eine Grenzziehung gerechtfertigt ist, lässt sich daher nicht allein am Willen desjenigen bestimmen, der sie setzt. Wir müssen nach bestehenden Verpflichtungen, der Verletzlichkeit aller Beteiligten, vorhandenen Alternativen und den Folgen des Rückzugs fragen. Eine bloß formale Ausweichmöglichkeit genügt nicht, wenn tatsächlich niemand die nötige Hilfe leisten kann.
+
 Ein Gespräch kann notwendig sein, ohne dass es jederzeit und unter allen Umständen fortgeführt werden muss. Enttäuschung über seinen Abbruch ist legitim; körperliches Hindern am Gehen nicht. **Die Freiheit des Gegenübers ist keine Verhandlungsmasse.**
 
 Umgekehrt kann auch Schweigen zur Machtausübung werden, wenn notwendige Verantwortung dauerhaft verweigert wird. Wir müssen zwischen der Pflicht, eine Frage zu klären, und dem angeblichen Recht unterscheiden, einen Menschen gegen seinen Willen in einer konkreten Begegnung festzuhalten.
