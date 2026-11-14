@@ -57,6 +57,16 @@ Eine gerechte Institution benötigt mindestens drei Maßstäbe:
 
 Diese Maßstäbe bestimmen noch nicht, welche Verteilung in jedem Konflikt die richtige ist. Sie verhindern aber, dass Gewohnheit, Sympathie oder schiere Macht bereits als ausreichende Begründung gelten.
 
+Gerade bei knappen Mitteln ist eine weitere Prüfung erforderlich: **Welche realen Möglichkeiten werden geschützt, welche eingeschränkt, und wer trägt die Last?** Dabei darf nicht einfach die größtmögliche Summe von Spielräumen angestrebt werden. Ein Verfahren, das viele Menschen geringfügig begünstigt, kann dennoch ungerecht sein, wenn es wenigen dafür grundlegende Rechte oder unersetzliche Lebensmöglichkeiten entzieht.
+
+Drei Fragen kommen hinzu. Zuerst: **Welche Ansprüche setzen der Abwägung Grenzen?** Grundlegende Rechte und der Schutz vor gravierenden Übergriffen dürfen nicht ohne weitere Begründung gegen bloße Vorteile anderer verrechnet werden. Sodann: **Wer trägt die Einschränkung, und warum gerade diese Person?** Die Unterschiede von Bedarf, Verletzlichkeit, bereits getragenen Lasten und tatsächlicher Handlungsmacht müssen offengelegt werden. Schließlich: **Was geschieht nach der Entscheidung?** Sind Folgen überprüfbar, zeitliche Grenzen angemessen und neue Spielräume nach einer Beschädigung wieder eröffnungsfähig?
+
+Man denke an zwei Gemeinden, die während einer Dürre dieselbe knappe Wasserquelle nutzen. Die eine benötigt Wasser für eine medizinische Einrichtung, die andere für die Existenz vieler landwirtschaftlicher Betriebe. Die Entscheidung lässt sich weder aus der Zahl der Betroffenen noch aus der stärkeren Erzählung ihres Leids unmittelbar ableiten. Es braucht gesicherte Informationen über Mindestbedarf, Alternativen, Folgeschäden, bestehende Ansprüche und die Möglichkeit, Lasten abzufedern.
+
+Eine gerechte Entscheidung könnte dennoch schmerzlich sein und berechtigte Interessen verletzen, die nicht gleichzeitig verwirklicht werden können. Deshalb wäre es unehrlich, die Abwägung als mechanische Anwendung eines einzigen Prinzips auszugeben.
+
+**Spielraum ist hier der Gegenstand der Prüfung, nicht bereits ihre abschließende Entscheidungsregel.** Wo Ansprüche kollidieren, müssen zusätzliche normative Gründe offengelegt werden. Die Resonanzethik kann solche Gründe nicht aus dem Gefühl der Stimmigkeit erzeugen; sie muss sich mit bestehenden rechts-, pflichten- und gerechtigkeitstheoretischen Maßstäben auseinandersetzen.
+
 Antwortfähigkeit bedeutet darum mehr als eine freundliche Empfangsbestätigung. Es braucht reale Chancen, dass begründete Einwände Entscheidungen ändern.
 
 Eine Institution fühlt nicht wie ein Mensch. Ihre **Antwortfähigkeit** ist eine institutionell gestaltete Korrekturmöglichkeit, keine Behauptung über ein fühlendes Kollektiv.
