@@ -15,6 +15,8 @@ Unsere Aufmerksamkeit ist endlich und ungleich verteilt. Persönliche Nähe, Äh
 
 Eine Resonanzethik muss deshalb erklären, weshalb auch jene Anspruch auf gerechte Behandlung besitzen, deren Erfahrungen niemals unmittelbar eine Antwort in uns auslösen.
 
+Die Frage ist nicht neu: Schon beim persönlichen Mitleid haben wir zu prüfen, ob Anteilnahme den realen Spielraum des anderen bewahrt, eröffnet oder verengt. Die gesellschaftliche Perspektive verschärft diese Prüfung. Sie fragt nicht nur, was eine Begegnung bewirkt, sondern welche Ansprüche gelten, wenn eine Begegnung niemals stattfindet.
+
 ## II. Die Ungerechtigkeit der Nähe
 
 Mitgefühl ist nicht unparteiisch. Diese Ungleichheit unserer Empfindungen ist menschlich, muss aber nicht zum Maßstab gesellschaftlicher Entscheidungen werden.
