@@ -19,6 +19,8 @@ Diese Möglichkeit muss keine böse Absicht voraussetzen. Sie liegt bereits in d
 
 Nicht jede Beeinflussung ist Manipulation. Ohne die Wirkung anderer Menschen auf unser Denken und Fühlen könnten wir kaum lernen, lieben oder uns verändern.
 
+Schon die Frage nach dem Mitleid führt zu einer doppelten Prüfung: Sind wir bereit, unsere Wahrnehmung korrigieren zu lassen, und was geschieht durch unsere Anteilnahme mit den realen Möglichkeiten des anderen? Das genügt jedoch noch nicht, wenn wir selbst zur Zielscheibe moralischer Erwartungen werden. Dann muss auch der Spielraum dessen betrachtet werden, von dem Hilfe verlangt wird.
+
 Doch wann wird aus dieser Offenheit eine Verwundbarkeit, die andere ausnutzen können? Und wie können wir sie schützen, ohne uns gegen den anderen zu verschließen?
 
 ## II. Die Macht des guten Gewissens
