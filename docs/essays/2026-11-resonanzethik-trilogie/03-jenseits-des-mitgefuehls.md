@@ -1,25 +1,25 @@
 # Jenseits des Mitgefühls
 *Warum Gerechtigkeit mehr braucht als Resonanz*
 
-**Thomas Peter Küper — Arbeitsfassung, 14. November 2026; nicht publiziert**
+**Thomas Peter Küper — redaktionell überarbeitete Arbeitsfassung, 15. November 2026; nicht publiziert**
 
 ## I. Die Ungesehenen
 
-Ein Mensch leidet, und wir sehen ihn. Vielleicht halten wir inne, fragen nach, und sein Schicksal erscheint uns nicht länger gleichgültig. So kann Mitgefühl beginnen.
+Ein Mensch leidet, und wir sehen ihn. Wir halten inne, fragen nach. Sein Schicksal ist uns plötzlich nicht mehr gleichgültig.
 
 Doch was geschieht mit denen, die wir nicht sehen? Mit einer alten Frau, die allein auf Unterstützung wartet? Mit einem Kind, dessen Not hinter statistischen Durchschnittswerten verschwindet? Mit einem Menschen, dessen Antrag abgelehnt wird, ohne dass jemand seine Lebensgeschichte kennt?
 
 Ihr Leiden ist nicht geringer, weil es uns nicht berührt. Ihre Ansprüche werden nicht schwächer, wenn niemand Anteilnahme empfindet. Ihre Würde entsteht nicht erst in dem Augenblick, in dem ein anderer Mensch sie erkennt.
 
-Unsere Aufmerksamkeit ist endlich und ungleich verteilt. Persönliche Nähe, Ähnlichkeit und erzählte Einzelgeschichten bewegen uns oft mehr als das anonyme Leid vieler Menschen. Wenn Gerechtigkeit von unserer Betroffenheit abhinge, wäre sie ebenso ungleich verteilt.
+Unsere Aufmerksamkeit ist begrenzt. Nähe und vertraute Geschichten bewegen uns oft stärker als das anonyme Leid vieler Menschen. Gerechtigkeit aber kann nicht derselben ungleichen Verteilung folgen.
 
 Eine Resonanzethik muss deshalb erklären, weshalb auch jene Anspruch auf gerechte Behandlung besitzen, deren Erfahrungen niemals unmittelbar eine Antwort in uns auslösen.
 
-Die Frage ist nicht neu: Schon beim persönlichen Mitleid haben wir zu prüfen, ob Anteilnahme den realen Spielraum des anderen bewahrt, eröffnet oder verengt. Die gesellschaftliche Perspektive verschärft diese Prüfung. Sie fragt nicht nur, was eine Begegnung bewirkt, sondern welche Ansprüche gelten, wenn eine Begegnung niemals stattfindet.
+Bereits beim persönlichen Mitleid stellt sich die Frage, ob Anteilnahme den Spielraum des anderen bewahrt, eröffnet oder verengt. Jetzt verschiebt sich der Blick: Welche Ansprüche gelten, wenn eine Begegnung niemals stattfindet?
 
 ## II. Die Ungerechtigkeit der Nähe
 
-Unsere Empfindungen folgen keiner gerechten Verteilungsregel. Wir reagieren auf Nähe, vertraute Geschichten und sichtbares Leid. Das ist menschlich; für gesellschaftliche Entscheidungen reicht es nicht.
+Unsere Empfindungen folgen keiner gerechten Verteilungsregel. Was uns besonders berührt, ist nicht notwendig das, was am dringendsten Schutz verdient.
 
 Wenn zwei Menschen vergleichbare Ansprüche und denselben Unterstützungsbedarf besitzen, sollte nicht allein darüber entscheiden, wer seine Not eindringlicher schildert. Ein Kind darf nicht deshalb weniger Schutz erhalten, weil seine Geschichte niemanden bewegt.
 
@@ -41,7 +41,7 @@ Ein anderer Mitarbeiter könnte kühl und knapp sprechen, aber einen Fehler entd
 
 Drei Ebenen sind auseinanderzuhalten: **Mitgefühl** ist Anteilnahme; **Rechtskonformität** ist die Übereinstimmung mit geltenden Regeln; **Gerechtigkeit** verlangt, auch die Legitimität der Regeln, ihre Auswirkungen und die Verteilung von Ansprüchen zu prüfen.
 
-Eine freundliche Verwaltung kann ungerecht entscheiden. Eine korrekte Verwaltung kann ungerechte Regeln anwenden. Eine gerechte Ordnung braucht Verfahren, mit denen Fehler erkannt und Maßstäbe angefochten werden können.
+Freundlichkeit verhindert keine ungerechte Entscheidung. Auch fehlerfreie Rechtsanwendung garantiert keine gerechte Regel. Deshalb braucht eine gerechte Ordnung Verfahren, in denen nicht nur Bescheide überprüft, sondern auch Maßstäbe kritisiert werden können.
 
 **Mitgefühl kann eine gerechte Entscheidung begleiten. Es kann sie nicht ersetzen.**
 
@@ -61,17 +61,17 @@ Diese Maßstäbe bestimmen noch nicht, welche Verteilung in jedem Konflikt die r
 
 Gerade bei knappen Mitteln ist eine weitere Prüfung erforderlich: **Welche realen Möglichkeiten werden geschützt, welche eingeschränkt, und wer trägt die Last?** Dabei darf nicht einfach die größtmögliche Summe von Spielräumen angestrebt werden. Ein Verfahren, das viele Menschen geringfügig begünstigt, kann dennoch ungerecht sein, wenn es wenigen dafür grundlegende Rechte oder unersetzliche Lebensmöglichkeiten entzieht.
 
-Drei Fragen kommen hinzu. Zuerst: **Welche Ansprüche setzen der Abwägung Grenzen?** Grundlegende Rechte und der Schutz vor gravierenden Übergriffen dürfen nicht ohne weitere Begründung gegen bloße Vorteile anderer verrechnet werden. Sodann: **Wer trägt die Einschränkung, und warum gerade diese Person?** Die Unterschiede von Bedarf, Verletzlichkeit, bereits getragenen Lasten und tatsächlicher Handlungsmacht müssen offengelegt werden. Schließlich: **Was geschieht nach der Entscheidung?** Sind Folgen überprüfbar, zeitliche Grenzen angemessen und neue Spielräume nach einer Beschädigung wieder eröffnungsfähig?
+Drei Fragen vertiefen diese Prüfung. **Welche Ansprüche setzen der Abwägung Grenzen?** Grundlegende Rechte und der Schutz vor gravierenden Übergriffen dürfen nicht einfach gegen bloße Vorteile anderer aufgerechnet werden. **Wer trägt die Einschränkung – und warum gerade dieser Mensch?** Bedarf, Verletzlichkeit, bisherige Lasten und tatsächliche Handlungsmacht sind relevant. **Was folgt aus der Entscheidung?** Sind ihre Wirkungen überprüfbar, Fristen angemessen und nach einer Beschädigung wieder eigene Möglichkeiten erreichbar?
 
 Man denke an zwei Gemeinden, die während einer Dürre dieselbe knappe Wasserquelle nutzen. Die eine benötigt Wasser für eine medizinische Einrichtung, die andere für die Existenz vieler landwirtschaftlicher Betriebe. Die Entscheidung lässt sich weder aus der Zahl der Betroffenen noch aus der stärkeren Erzählung ihres Leids unmittelbar ableiten. Es braucht gesicherte Informationen über Mindestbedarf, Alternativen, Folgeschäden, bestehende Ansprüche und die Möglichkeit, Lasten abzufedern.
 
-Eine gerechte Entscheidung könnte dennoch schmerzlich sein und berechtigte Interessen verletzen, die nicht gleichzeitig verwirklicht werden können. Deshalb wäre es unehrlich, die Abwägung als mechanische Anwendung eines einzigen Prinzips auszugeben.
+Auch eine begründete Entscheidung kann schmerzlich bleiben. Wo berechtigte Interessen kollidieren, ist nicht jeder Verlust vermeidbar. Es wäre unehrlich, dafür eine mechanische Lösung auszugeben.
 
 **Spielraum ist hier der Gegenstand der Prüfung, nicht bereits ihre abschließende Entscheidungsregel.** Wo Ansprüche kollidieren, müssen zusätzliche normative Gründe offengelegt werden. Die Resonanzethik kann solche Gründe nicht aus dem Gefühl der Stimmigkeit erzeugen; sie muss sich mit bestehenden rechts-, pflichten- und gerechtigkeitstheoretischen Maßstäben auseinandersetzen.
 
-Antwortfähigkeit bedeutet darum mehr als eine freundliche Empfangsbestätigung. Es braucht reale Chancen, dass begründete Einwände Entscheidungen ändern.
+Antwortfähigkeit bedeutet daher mehr als eine freundliche Empfangsbestätigung: Einwände müssen ernsthaft geprüft werden und unter begründbaren Voraussetzungen Entscheidungen verändern können. Dass ein Widerspruch keinen Erfolg hat, beweist noch nicht, dass er übergangen wurde.
 
-Eine Institution fühlt nicht wie ein Mensch. Ihre **Antwortfähigkeit** ist eine institutionell gestaltete Korrekturmöglichkeit, keine Behauptung über ein fühlendes Kollektiv.
+Eine Institution fühlt nicht wie ein Mensch. Ihre **Antwortfähigkeit** bezeichnet überprüfbare Wege zu Rechenschaft und Korrektur – keine Emotion eines Kollektivs.
 
 ## V. Die Verantwortung für die Abwesenden
 
@@ -105,18 +105,18 @@ Resonanz ist somit kein hinreichender Maßstab für das Gute. Eine institutionel
 
 ## VII. Jenseits des Mitgefühls
 
-Vielleicht beginnt unser Nachdenken über Gerechtigkeit mit einem Gesicht: Ein Mensch leidet, und plötzlich bemerken wir ein Unrecht, an dem wir zuvor vorbeigesehen haben.
+Vielleicht beginnt unser Nachdenken über Gerechtigkeit mit einem Gesicht. Wir sehen einen leidenden Menschen – und erkennen eine Frage, an der wir bisher vorbeigegangen sind.
 
 Doch wir dürfen dabei nicht stehen bleiben. Wir müssen fragen, welche Ansprüche bestehen, welche Verantwortung wir tragen und welche Regeln auch dann gelten, wenn uns der Mensch fremd bleibt.
 
-Vom einzelnen Gesicht gelangen wir zur allgemeinen Verpflichtung; von spontaner Anteilnahme zu begründbaren Entscheidungen; von der direkten Begegnung zu einer Ordnung, die auch Ungesehene schützt.
+Von der persönlichen Anteilnahme führt der Weg zu begründbaren Entscheidungen und zu Regeln, die auch diejenigen schützen, denen wir niemals begegnen.
 
 Mitgefühl kann Gleichgültigkeit unterbrechen. Eine gerechte Gesellschaft muss jedoch auch dann handeln können, wenn dieses Gefühl ausbleibt. Sie muss Gründe verlangen, wo Gefühle nicht ausreichen, Korrekturen ermöglichen, wo Regeln versagen, und Menschen berücksichtigen, die ihre Ansprüche nicht persönlich vorbringen können.
 
-**Eine gerechte Ordnung darf nicht darauf angewiesen sein, dass jemand Mitgefühl empfindet. Sie darf aber auch nicht so gestaltet sein, dass niemand mehr antworten muss.**
+Eine gerechte Ordnung darf nicht darauf angewiesen sein, dass jemand Mitgefühl empfindet. Sie darf aber auch nicht so gestaltet sein, dass niemand mehr antworten muss.
 
 **Mitgefühl kann uns zur Gerechtigkeit führen. Aber Gerechtigkeit muss auch ohne Mitgefühl bestehen können.**
 
 ---
 
-*Gedachter Behördenfall; keine empirische Fallstudie. Quellen- und rechtsphilosophische Endprüfung ausstehend.*
+*Behörden- und Wasserbeispiel sind Gedankenfälle, keine empirischen Fallstudien. Wissenschaftliche Zitiernachweise werden in einer separaten Quellenedition ergänzt.*
