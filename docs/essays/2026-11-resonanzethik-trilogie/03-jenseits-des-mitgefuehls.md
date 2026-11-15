@@ -19,7 +19,7 @@ Die Frage ist nicht neu: Schon beim persönlichen Mitleid haben wir zu prüfen, 
 
 ## II. Die Ungerechtigkeit der Nähe
 
-Mitgefühl ist nicht unparteiisch. Diese Ungleichheit unserer Empfindungen ist menschlich, muss aber nicht zum Maßstab gesellschaftlicher Entscheidungen werden.
+Unsere Empfindungen folgen keiner gerechten Verteilungsregel. Wir reagieren auf Nähe, vertraute Geschichten und sichtbares Leid. Das ist menschlich; für gesellschaftliche Entscheidungen reicht es nicht.
 
 Wenn zwei Menschen vergleichbare Ansprüche und denselben Unterstützungsbedarf besitzen, sollte nicht allein darüber entscheiden, wer seine Not eindringlicher schildert. Ein Kind darf nicht deshalb weniger Schutz erhalten, weil seine Geschichte niemanden bewegt.
 
@@ -27,7 +27,7 @@ In Adam Smiths *Theorie der ethischen Gefühle* (1759) entsteht Anteilnahme durc
 
 Auch gleiche Behandlung kann bei ungleichen Voraussetzungen ungerecht sein. Gerechtigkeit verlangt daher keine identischen Gefühle, sondern Gründe, die auch gegenüber Menschen vertreten werden können, deren Perspektive wir nicht teilen.
 
-Mitgefühl kann die Frage nach Gerechtigkeit eröffnen. Es beantwortet sie nicht allein.
+Die Frage nach der Gerechtigkeit kann mit Erschütterung beginnen. Ihre Antwort verlangt eine überprüfbare Begründung.
 
 ## III. Ein Bescheid
 
@@ -105,13 +105,13 @@ Resonanz ist somit kein hinreichender Maßstab für das Gute. Eine institutionel
 
 ## VII. Jenseits des Mitgefühls
 
-Vielleicht beginnt unser Nachdenken über Gerechtigkeit mit einem Gesicht. Wir sehen einen Menschen leiden und merken, dass etwas nicht stimmt.
+Vielleicht beginnt unser Nachdenken über Gerechtigkeit mit einem Gesicht: Ein Mensch leidet, und plötzlich bemerken wir ein Unrecht, an dem wir zuvor vorbeigesehen haben.
 
 Doch wir dürfen dabei nicht stehen bleiben. Wir müssen fragen, welche Ansprüche bestehen, welche Verantwortung wir tragen und welche Regeln auch dann gelten, wenn uns der Mensch fremd bleibt.
 
 Vom einzelnen Gesicht gelangen wir zur allgemeinen Verpflichtung; von spontaner Anteilnahme zu begründbaren Entscheidungen; von der direkten Begegnung zu einer Ordnung, die auch Ungesehene schützt.
 
-Mitgefühl bleibt wertvoll, weil es Gleichgültigkeit unterbrechen kann. Aber eine gerechte Gesellschaft darf weder von seiner Gegenwart noch von seiner Intensität abhängen. Sie muss Gründe verlangen, wo Gefühle nicht ausreichen, Korrekturen ermöglichen, wo Regeln versagen, und Menschen berücksichtigen, die ihre Ansprüche nicht persönlich vorbringen können.
+Mitgefühl kann Gleichgültigkeit unterbrechen. Eine gerechte Gesellschaft muss jedoch auch dann handeln können, wenn dieses Gefühl ausbleibt. Sie muss Gründe verlangen, wo Gefühle nicht ausreichen, Korrekturen ermöglichen, wo Regeln versagen, und Menschen berücksichtigen, die ihre Ansprüche nicht persönlich vorbringen können.
 
 **Eine gerechte Ordnung darf nicht darauf angewiesen sein, dass jemand Mitgefühl empfindet. Sie darf aber auch nicht so gestaltet sein, dass niemand mehr antworten muss.**
 
