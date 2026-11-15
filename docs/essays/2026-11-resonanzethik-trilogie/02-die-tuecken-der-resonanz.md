@@ -33,7 +33,7 @@ Eine Bitte, die sich auf unser Selbstbild richtet, kann schwerer abzulehnen sein
 
 Solche Verschiebungen können bewusst herbeigeführt werden oder unbeabsichtigt entstehen. Menschen lernen in Beziehungen, welche Äußerungen bestimmte Reaktionen hervorrufen. Verhaltensweisen, die wiederholt zum gewünschten Ergebnis führen, können sich verfestigen, ohne dass jemand sie ausdrücklich als Strategie plant. Das ist eine plausible Lernhypothese, kein Beweis für die Motive eines bestimmten Menschen.
 
-Nietzsche misstraute einer Moral, die Mitleid allein aufgrund seiner emotionalen Herkunft bereits für uneigennützig hält. Wer hilft, kann zugleich eigene Bedürfnisse befriedigen: Hilflosigkeit überwinden, Anerkennung suchen oder sein Gewissen beruhigen. Seine Kritik erschöpft sich allerdings nicht in dieser Motivfrage; sie betrifft auch die möglichen schwächenden Wirkungen des Mitleids.
+Nietzsche misstraute der moralischen Selbstgewissheit des Mitleidenden. In *Morgenröte* (§133) untersucht er, wie eigene Hilflosigkeit, Ansehen und Unbehagen in scheinbar selbstloser Hilfe mitwirken können. In §134 und später im *Antichrist* (§7) richtet sich sein Einwand auch gegen die mögliche Vermehrung und Verfestigung von Leiden. Daraus folgt keine gesicherte Diagnose einzelner Helfender, wohl aber ein ernst zu nehmender Einwand gegen die Gleichsetzung von Mitleid und moralischer Güte.
 
 Die Motive menschlichen Handelns bleiben selten vollkommen durchsichtig. Ein Mensch kann aufrichtig leiden und dennoch durch Schuldgefühle Druck ausüben. Er kann sich zurückgewiesen fühlen und zugleich die Grenzen eines anderen missachten. Beides kann wahr sein.
 
@@ -79,7 +79,7 @@ Beide haben Gründe. Beide müssen mit einer Unvereinbarkeit leben, die durch Ve
 
 ## IV. Die Freiheit zur Distanz
 
-Resonanz, wie Hartmut Rosa sie beschreibt, ist unverfügbar. Wir können von etwas berührt werden, mit eigener Stimme antworten und verändert werden. Eine bestimmte Reaktion lässt sich aber nicht verlässlich erzwingen.
+Resonanz bezeichnet bei Hartmut Rosa eine besondere Form der Weltbeziehung: Wir können von etwas berührt werden, selbstwirksam mit eigener Stimme antworten und uns dabei verändern. Eine solche Beziehung bleibt unverfügbar. Rosa grenzt sie ausdrücklich von einer gewaltförmigen Durchsetzung des eigenen Willens ab. Wenn die vorliegende Resonanzethik gleichwohl von intensiven, aber vereinnahmenden Bindungen spricht, ist dies zunächst eine Beschreibung starker emotionaler Wechselwirkungen – nicht bereits Resonanz im engeren Sinn Rosas.
 
 Für die hier vorgeschlagene Resonanzethik folgt daraus eine doppelte Aufgabe: die Erfahrung des anderen ernst nehmen und zugleich seine Freiheit achten, anders zu empfinden, zu entscheiden und Erwartungen zurückzuweisen.
 
