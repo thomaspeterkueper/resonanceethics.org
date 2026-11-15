@@ -23,7 +23,7 @@ Mitgefühl ist nicht unparteiisch. Diese Ungleichheit unserer Empfindungen ist m
 
 Wenn zwei Menschen vergleichbare Ansprüche und denselben Unterstützungsbedarf besitzen, sollte nicht allein darüber entscheiden, wer seine Not eindringlicher schildert. Ein Kind darf nicht deshalb weniger Schutz erhalten, weil seine Geschichte niemanden bewegt.
 
-Adam Smiths unparteiischer Beobachter erinnert daran, dass auch unsere Sympathie der Prüfung bedarf. Dabei ist Smith keineswegs für eine gefühllose Moral zu vereinnahmen; seine unparteiische Perspektive gehört zu einer Theorie der moralischen Gefühle.
+In Adam Smiths *Theorie der ethischen Gefühle* (1759) entsteht Anteilnahme durch den Versuch, sich mit der Einbildungskraft in die Lage eines anderen zu versetzen. Seine Figur des unparteiischen Beobachters hilft, voreilige Parteinahmen zu prüfen. Sie ist dabei keine gefühllose Instanz: Smith entwickelt moralisches Urteil gerade aus der Auseinandersetzung mit menschlichen Gefühlen. Unser Vorschlag eigenständiger Gerechtigkeitsmaßstäbe geht darüber hinaus; er ist Smith nicht einfach zuzuschreiben.
 
 Auch gleiche Behandlung kann bei ungleichen Voraussetzungen ungerecht sein. Gerechtigkeit verlangt daher keine identischen Gefühle, sondern Gründe, die auch gegenüber Menschen vertreten werden können, deren Perspektive wir nicht teilen.
 
